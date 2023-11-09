@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034624564904",
+    "project_id": "e-katalog-5e69c",
+    "storage_bucket": "e-katalog-5e69c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034624564904:android:4fdd448651a4355ebccc9d",
+        "android_client_info": {
+          "package_name": "com.example.ekatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjw6EovEYob1UACjHqii9burToaWVzig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
